@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ActionScrabble::VERSION
   spec.authors       = ["Matthew Powers"]
   spec.email         = ["matthewkevinpowers@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Scrabble word helpers}
+  spec.description   = %q{A highly configurable API to find words in Scrabble.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
